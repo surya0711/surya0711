@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suryaprakash P
 
-## 💡 Aspiring DevOps Engineer  
+## 👨‍💻 Aspiring DevOps Engineer  
 
   
 ## About me 
