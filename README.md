@@ -40,7 +40,7 @@
 
 📚 Version Control & Collaboration: Git, GitHub
 
-🛠️ Continuous Integration & Deployment: Jenkins, AWS Code Deploy & Code Pipeline
+🛠️ Continuous Integration & Deployment: Jenkins
 
 📦 Containerization & Orchestration: Docker, Kubernetes
 
@@ -50,7 +50,7 @@
 
 📧 Email: psurya521@gmail.com
 
-🌐 LinkedIn: LinkedIn
+🌐 LinkedIn: www.linkedin.com/in/suryaprakash07
 
 
 
